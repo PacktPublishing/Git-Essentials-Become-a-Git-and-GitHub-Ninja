@@ -1,0 +1,34 @@
+First things first
+Hi there,
+
+I'm Kalob Taulien — your instructor for this course. I've been using Git for well over 5 years now and I've seen it used in every possible scenario. And the honest truth is: it is not very complicated. I promise you will learn how to use Git and GitHub fluently in just a couple of hours.
+
+Where is Git used?
+
+Git is used in almost every software development company. Whether you're creating websites, making games, or creating desktop programs — Git is being used! 
+
+If it involves code, it involves Git! 
+
+Every website I've made in the last 5 years uses Git. GitHub is the brand name for Git services. But there's also GitLab which lets companies host their own Git service — but they are used the exact same way. Every command you see in this course can be used on GitLab, GitHub and BitBucket. It's 100% interchangeable.
+
+Do jobs require Git?
+
+90%-95% of all jobs now require you to know Git. If you don't know Git you are unlikely to land a job at a software company. The one exception is if you're brand new to coding and you start at the very bottom of the corporate chain. But even then, not too many companies will hire developers who are that junior anymore.
+
+Git is a required skill. It's the secret language that all software developers are using. It's so common, nobody even mentions it anymore, it's just assumed that you know how to use it.
+
+Are there jobs for Git?
+
+YES! Yes, yes, yes a million times yes! Sort of.
+
+Git is a supplementary skill — that means you need to know Git but you also need to have other software skills to land a job. JavaScript, Python, Java, PHP and C are all popular programming languages — and Git helps makes a codebase easier to work with in a team.
+
+So, yes, almost every software job requires Git. But no, there are probably no software jobs that require only Git, you'll need another programming language to build your coding expertise.
+
+By the end of this course...
+
+You will have the knowledge and confidence to work at a software company that is using Git.
+
+In fact, by time you get through this entire course you'll actually be better equipped as a developer than the average software dev.
+
+Let's get started! 

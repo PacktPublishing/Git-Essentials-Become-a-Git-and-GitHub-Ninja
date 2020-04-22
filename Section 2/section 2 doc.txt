@@ -1,0 +1,12 @@
+Notes about Git for Windows
+If you're using Windows and using Git for Windows, you may be prompted (or shown) two programs to use:
+
+Git Bash, or
+
+Git CMD
+
+Git Bash is the program you'll want to use.
+
+—
+
+If you're using the Linux Subsystem for Windows and you're using Bash for Ubuntu for Windows, you'll want to install Git using the Linux instructions in the next video.

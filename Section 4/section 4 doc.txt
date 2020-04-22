@@ -1,0 +1,8 @@
+Additional Free Learning Resources
+In this video I mention a a couple of useful tools.
+
+For more visual learners, you'll absolutely love this tool: https://learngitbranching.js.org/
+
+If you're more interested in reading a book, check out this amazing free ebook: https://books.goalkicker.com/GitBook/
+
+For people who want to really master GitHub, there's a GitHub-made tool you'll probably like to play with: https://cli.github.com/

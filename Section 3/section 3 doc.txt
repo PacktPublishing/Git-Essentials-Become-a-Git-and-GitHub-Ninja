@@ -1,0 +1,12 @@
+The git alias code
+The raw git lg command you can copy and paste into any git project directly into your command line is:
+
+git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
+
+And if you want to alias this command, you'll want to update your .gitconfig file on your computer by adding the following code:
+
+# .gitconfig
+# ... your credentials at the top
+ 
+[alias]
+    lg = log --topo-order --all --graph --date=local --pretty=format:
